@@ -11,3 +11,5 @@ My tentative project plan is looking like this:
 5. Learn the tools through online courses, projects, and more
 6. Track my learning process by collecting data and tracking relevant KPIs
 7. Get a job?
+
+As I move along in this project, I will use GitHub to track my progress through regular writeups, code chunks, and ultimately the finished product. I plan to commit a chunk of time outside of my full-time job to this project in order to sooner or later find employment in the world of data.
